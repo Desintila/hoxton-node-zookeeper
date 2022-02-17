@@ -10,7 +10,7 @@ PRIMARY KEY (id)
 );
 
 
-INSERT INTO animals(species2,name,age,fed,favourite_food) VALUES("Lion","Simba",4,1,"Meat");
+INSERT INTO animals(species,name,age,fed,favourite_food) VALUES("Lion","Simba",4,1,"Meat");
 
 INSERT INTO animals(species,name,age,fed,favourite_food) VALUES("Whale","Willy",40,0,"Fish");
 
